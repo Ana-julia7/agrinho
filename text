@@ -1,0 +1,9 @@
+ textSize(26);
+  fill(0);
+text("vamos plantar árvore para reduzir a temperatura?",10, 30)
+textSize(14);
+fill('white');
+text("Temperatura:"+ temperatura.toFixed(2)), 10, 390);
+text("árvores plantadas:"+ temperatura.toFix(2) ,10,390);
+text("para movimentar o personagm use as setas do teclado.", 10, 60,);
+text("para plantar árvores use P ou espaço."
