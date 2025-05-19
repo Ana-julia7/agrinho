@@ -1,0 +1,4 @@
+}function verificarFimDejogo () {}
+ 
+  inf(totalArvores> 50){
+    mostrarMensagemDevitoria()
